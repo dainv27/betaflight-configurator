@@ -3510,6 +3510,11 @@
   resolved "https://registry.yarnpkg.com/@types/npmlog/-/npmlog-4.1.4.tgz#30eb872153c7ead3e8688c476054ddca004115f6"
   integrity sha512-WKG4gTr8przEZBiJ5r3s8ZIAoMXNbOgQ+j/d5O4X3x6kZJRLNvyUJuUK/KoG3+8BaOHPhp2m7WC6JKKeovDSzQ==
 
+"@types/nw.gui@^0.0.25":
+  version "0.0.25"
+  resolved "https://registry.yarnpkg.com/@types/nw.gui/-/nw.gui-0.0.25.tgz#aacd8d570b9f0ee531a3ce4bbf2299ede7ee0e0a"
+  integrity sha512-EAxJc9NWwPQrxP4E/NegbuApQIxOVS/PA8d2NRHNHahcDLkZpaTSVZTVAWzCQ7o5K/rr3fJA9wemCpKZECTMKA==
+
 "@types/parse-json@^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@types/parse-json/-/parse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
